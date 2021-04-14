@@ -1,0 +1,25 @@
+body{
+	background-color: lightgray;
+	font-family: 'Nunito', sans-serif;
+}
+th{
+	background-color: gray;
+}
+
+td{
+	background-color: darkgray;
+}
+
+h3{
+	background-color: lightblue;
+}
+
+.tabla2{
+	padding-left: 100px; 
+}
+.tablas{
+	display: flex;
+}
+.tablas3{
+	padding-top: 20px;
+}
